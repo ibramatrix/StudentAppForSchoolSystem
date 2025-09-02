@@ -94,29 +94,6 @@ flutter run
 
 ---
 
-## 🖼 Screenshots
-
-### 📱 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### 📝 Attendance
-
-![Attendance](screenshots/attendance.png)
-
-### 🗓 Events & Reminders
-
-![Events](screenshots/events.png)
-
-### 📝 Notes & Assignments
-
-![Notes](screenshots/notes.png)
-
-### 📊 Reports
-
-![Reports](screenshots/reports.png)
-
----
 
 ## 🤝 Contributing
 
